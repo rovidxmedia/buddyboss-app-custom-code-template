@@ -1,5 +1,5 @@
-# am-bbapp-release
-Basic example of how to include podcasting in the Buddyboss App.   
+# Podcast Example for the BuddyBoss App
+Basic example of how to include podcasting in the Buddyboss App.   Requires developer access for the BuddyBoss App.
 
 Instructions:
 - Clone repository
